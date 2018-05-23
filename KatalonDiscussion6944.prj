@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>https://forum.katalon.com/discussion/6944/test-execution-running-katalon-scripts-in-same-browser-with-different-version</description>
+   <name>KatalonDiscussion6944</name>
+   <tag></tag>
+   <UUID>6e076f79-177f-4e3a-8ac5-4382c6f17c2b</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

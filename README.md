@@ -21,7 +21,7 @@ With a few lines of code in a Katalon Test Case, you can start a Chrome browser 
 
 # description
 
-read the code [here]()
+read code of the [Test case script](https://github.com/kazurayam/KatalonDiscussion6944/blob/master/Scripts/TC1/Script1527037412367.groovy)
 
 # References
 

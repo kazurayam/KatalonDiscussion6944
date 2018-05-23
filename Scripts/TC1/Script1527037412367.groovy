@@ -11,9 +11,9 @@ System.setProperty('webdriver.chrome.driver', "C:/Katalon_Studio_Windows_64-5.4.
 System.setProperty('webdriver.chrome.logfile', 'C:/temp/chromedriver_TC1.log')
 
 //def chromeBinaryPath = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe'  // ver: latest( 66.0.3359.181)
-def chromeBinaryPath = 'C:/Users/qcq0264/AppData/Local/Google/Chrome/_Application_/new_chrome.exe'  // ver: 65.0.3325.146
+def chromeBinaryPath = 'C:/Users/username/AppData/Local/Google/Chrome/_Application_/new_chrome.exe'  // ver: 65.0.3325.146
 
-// see http://chromedriver.chromium.org/capabilities 
+// see http://chromedriver.chromium.org/capabilities
 ChromeOptions options = new ChromeOptions()
 options.setBinary(new File(chromeBinaryPath))
 
